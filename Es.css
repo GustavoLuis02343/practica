@@ -1,0 +1,9 @@
+
+input:invalid {
+    border-color: crimson;
+    background-color: lightpink
+}
+input:valid {
+    border-color: rgb(12, 216, 12);
+    background-color:lightblue;
+}
